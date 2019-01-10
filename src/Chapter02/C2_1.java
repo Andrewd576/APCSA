@@ -1,7 +1,7 @@
 package Chapter02;
 
-
 import java.util.Scanner;
+
 /**
  * Prints the acceleration of 3 numbers
  *
