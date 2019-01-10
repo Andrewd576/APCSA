@@ -59,6 +59,7 @@ public class P6 {
      * @return the exchanged currencies
      */
     public static double convert(double dollars, double exchangeRate) {
+        
         if (dollars > 100) {
             return 0.95 * dollars * exchangeRate;
         } else {
